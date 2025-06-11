@@ -1,0 +1,2 @@
+# KTdsTraining
+ai azure edu
